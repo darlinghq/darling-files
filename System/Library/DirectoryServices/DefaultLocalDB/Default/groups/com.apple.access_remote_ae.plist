@@ -4,27 +4,23 @@
 <dict>
 	<key>comment</key>
 	<array>
-		<string>Users who can install App Store apps in /Applications</string>
+		<string>Remote Access</string>
 	</array>
 	<key>generateduid</key>
 	<array>
-		<string>ABCDEFAB-CDEF-ABCD-EFAB-CDEF00000021</string>
+		<string>ABCDEFAB-CDEF-ABCD-EFAB-CDEF00000190</string>
 	</array>
 	<key>gid</key>
 	<array>
-		<string>33</string>
+		<string>400</string>
 	</array>
 	<key>nestedgroups</key>
 	<array>
 		<string>ABCDEFAB-CDEF-ABCD-EFAB-CDEF00000050</string>
 	</array>
-        <key>groupmembers</key>
-        <array>
-                <string>FFFFEEEE-DDDD-CCCC-BBBB-AAAA00000021</string>
-        </array>
 	<key>name</key>
 	<array>
-		<string>_appstore</string>
+		<string>com.apple.access_remote_ae</string>
 	</array>
 	<key>passwd</key>
 	<array>
@@ -32,11 +28,7 @@
 	</array>
 	<key>realname</key>
 	<array>
-		<string>App Store users</string>
+		<string>Remote Access</string>
 	</array>
-        <key>users</key>
-        <array>
-                <string>_appstore</string>
-        </array>
 </dict>
 </plist>
